@@ -79,7 +79,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'djongo',
         'NAME': 'django_test',
-        'HOST': 'mongodb://sajeer:sajeer123@localhost:27017/django_test',
+        'HOST': 'mongodb://sajeer:sajeer123@localhost:27017/django_test2',
         'USER': 'sajeer',
         'PASSWORD': 'sajeer123'
     }
